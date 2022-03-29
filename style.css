@@ -14,7 +14,7 @@
     font-weight: 600;
 }
 html{
-    
+
 }
 *{
     margin: 0;
@@ -24,7 +24,7 @@ html{
     list-style: none;
 }
 body{
-    font-family: 'SFProDisplay';
+    font-family: "SFProDisplay";
     color: black;
     font-style: normal;
 }
