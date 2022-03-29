@@ -183,6 +183,7 @@ nav{
     margin: 0 76px 0 200px;
 }
 .section1_st{
+    font-family:SFProDisplay;
     font-weight: 600;
     font-size: 14px;
     line-height: 17px;
@@ -281,6 +282,7 @@ nav{
 }
 .section2_l{
     display: inline-block;
+    font-family: SFProDisplay;
     font-weight: 600;
     font-size: 14px;
     line-height: 17px;
@@ -429,6 +431,7 @@ nav{
     margin: 75px 0 150px 600px;
 }
 .section4_title{
+    font-family: SFProDisplay;
     font-weight: 600;
     font-size: 48px;
     line-height: 57px;
