@@ -13,9 +13,6 @@
     src: url("../fonts/SFProDisplay-SemiBold.ttf") format("truetype");
     font-weight: 600;
 }
-html{
-
-}
 *{
     margin: 0;
     padding: 0;
